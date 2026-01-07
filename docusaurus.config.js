@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'dif3dgela',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -98,7 +98,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://dif3dgela.github.io/',
-            label: 'GitHub',
+            label: 'Web',
             position: 'right',
           },
         ],
@@ -119,16 +119,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://discord.gg/wqEvEaegyv',
               },
             ],
           },
@@ -140,8 +132,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Web',
+                href: 'https://dif3dgela.github.io/',
               },
             ],
           },
