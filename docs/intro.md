@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎨 [EHU 3D Graphics Lab](https://github.com/dif3dgela/dif3dgela.github.io) (dif.3d.gela)
+# 🎨 EHU 3D Graphics Lab
 
 [![Screenshot](https://github.com/dif3dgela/dif3dgela.github.io/blob/main/assets/media/icon.png)](https://dif3dgela.github.io/)
 
