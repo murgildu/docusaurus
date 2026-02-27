@@ -10,7 +10,7 @@ Goal: start from a Meta Quest 2 or 3 and end with Blender showing the 3D viewpor
 
 Pipeline overview:
 
-Meta Quest (ALVR viewer) <-> Wi-Fi (or USB) <-> ALVR streamer (Linux PC) <-> SteamVR <-> OpenXR <-> Blender VR Scene Inspection add-on
+Meta Quest (ALVR viewer) ↔ Wi-Fi (or USB) ↔ ALVR streamer (Linux PC) ↔ SteamVR ↔ OpenXR ↔ Blender VR Scene Inspection add-on
 
 ---
 
